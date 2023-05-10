@@ -1,4 +1,4 @@
-![RIVAL](https://github.com/playtini/.github/raw/master/profile/playtini.png? "RivalFantasy")
+![RIVAL](https://raw.githubusercontent.com/rivalfantasy/.github/main/profile/main-section-fourth-slide.webp? "RivalFantasy")
 
 # We hire 🦄
 

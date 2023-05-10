@@ -15,5 +15,5 @@
 # Links
 * [Youtube](https://www.youtube.com/channel/UCHhzu5p4jeaXUwnXovMC5Mg)
 * [Twitter](https://twitter.com/rivalfantasy)
-* [https://instagram.com/rivalfantasy](Instagram)
+* [Instagram](https://instagram.com/rivalfantasy)
 * [Tiktok](https://www.tiktok.com/@rivalfantasy)

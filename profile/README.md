@@ -3,7 +3,7 @@
 # Tech-stack overview
 ## Infrastructure
 - Github with actions
-- [Terraform](https://www.terraform.io/)
+- [Terraform](https://www.terraform.io/) – 100% IaC
 - [AWS](https://aws.amazon.com/)
 ## Frontend
 - [React](https://react.dev/) + [MobX](https://mobx.js.org/README.html) + S3
@@ -19,12 +19,12 @@
 ## Design
 - Figma
 ## Communication
-- Trello
+- Trello – Manage task status, reporting
 - Slack
-- Google Docs
+- Google Docs – For [RFC](https://www.ietf.org/standards/rfcs/)'s, interactive requirement development
 ## 3rd-party
-- [Retainly](https://retainly.app/)
-- Appsflyer
+- [Retainly](https://retainly.app/) – Retain your customers easily using emails, sms, popular messengers and web pushes. Be the best in marketing with MACH-powered modern customer engagement platform!
+- [Appsflyer](https://www.appsflyer.com/) – Get visibility into performance, scale installs, and maximize LTV with a new standard of measurement and deep linking solutions.
 
 # We hire 🦄
 
